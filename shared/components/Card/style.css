@@ -24,7 +24,7 @@
   ); /* Adjusts max-width to fit 3 items per row with margins */
 }
 .flexcard:hover {
-  background-color: #00aeef;
+  background-color: #F4CE14;
 }
 
 .flexcardTitle {
@@ -80,7 +80,7 @@ img.flexcardimgItem {
   }
 }
 /* .flexcardImg a {
-  background-color: #00aeef;
+  background-color: #F4CE14;
   border-radius: 20px;
   padding: 4px 16px;
   width: auto;

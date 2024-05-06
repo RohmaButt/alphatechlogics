@@ -52,12 +52,12 @@ body {
 }
 
 .nav a:hover {
-  color: #00aeef;
+  color: #f4ce14;
   font-weight: bold;
 }
 
 .subscript {
-  color: #00aeef;
+  color: #f4ce14;
 }
 
 .title-name {
@@ -93,7 +93,7 @@ li .submenu {
 
 .submenu > li {
   padding: 10px 10px;
-  background-color: #c9d6db;
+  background-color: #c9d9db;
   width: 270px;
 }
 
@@ -104,7 +104,7 @@ li:hover .submenu {
   flex-direction: column;
   position: absolute;
   padding: 10px 10px;
-  background-color: #c9d6db;
+  background-color: #c9d9db;
 }
 
 .submenu a {
@@ -138,5 +138,5 @@ ul ul::before {
 }
 
 ul ul:hover::before {
-  color: #00aeef;
+  color: #f4ce14;
 }

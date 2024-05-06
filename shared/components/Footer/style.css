@@ -30,7 +30,7 @@ ul {
   position: absolute;
   left: 0;
   bottom: -10px;
-  background-color: #00aeef;
+  background-color: #F4CE14;
   height: 2px;
   box-sizing: border-box;
   width: 50px;
@@ -48,7 +48,7 @@ ul {
   transition: all 0.3s ease;
 }
 .footer-col ul li a:hover {
-  color: #00aeef;
+  color: #F4CE14;
   padding-left: 8px;
 }
 .footer-col .social-links a {
@@ -65,12 +65,12 @@ ul {
 }
 .footer-col .social-links a:hover {
   color: #24262b;
-  background-color: #00aeef;
+  background-color: #F4CE14;
 }
 
 .footer-h4 {
   font-size: 10px;
-  color: #00aeef;
+  color: #F4CE14;
   text-transform: capitalize;
   margin-left: 15px;
   margin-top: 15px;

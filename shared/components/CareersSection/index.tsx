@@ -7,7 +7,7 @@ export default function () {
     <div className="flexbox-images-card" style={styles}>
       <StaticCard
         flexcardTitle="Strive for Excellence"
-        flexcardText="If you wish to have your logical and technical capacity challenged to the limit, then Qonsult is the right place for you"
+        flexcardText="If you wish to have your logical and technical capacity challenged to the limit, then AlphaTech is the right place for you"
         styles={styles}
         flexcardImg="/Images/icons/career-1.png"
       />

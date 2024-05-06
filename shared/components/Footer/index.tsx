@@ -73,7 +73,7 @@ export default function Footer() {
             </div>
           </div>
           <div className="footer-row">
-            <div className="footer-h4">© 2023 Qonsult AI</div>
+            <div className="footer-h4">© 2023 AlphaTech Logics</div>
           </div>
         </div>
       </footer>

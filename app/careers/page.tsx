@@ -7,9 +7,9 @@ const Careers = () => {
     <div className="flex flex-col mt-64">
       <section>
         <Breadcrums
-          title="Careers at Qonsult"
+          title="Careers at &alpha;Tech"
           image="/Images/images/careers.webp"
-          description0="At Qonsult, we emphasize on "
+          description0="At AlphaTech, we emphasize on "
           description1="employee well-being, motivation, and growth, "
           description2="while providing our team with the support needed to discover their full potential and excel"
           blue_color0={false}

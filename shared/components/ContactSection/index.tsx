@@ -8,7 +8,7 @@ export default function () {
       <StaticCard
         flexcardTitle="General Queries"
         flexURLMessage="For general queries, please reach out to us at"
-        flexcardText="info@qonsult.ai"
+        flexcardText="info@alphatechlogics.com"
         flexcardImg="/Images/icons/contact-1.png"
         styles={styles}
         flexIsImageURL={true}
@@ -16,7 +16,7 @@ export default function () {
       <StaticCard
         flexcardTitle="Careers"
         flexURLMessage="For career opportunities, please contact us at "
-        flexcardText="careers@qonsult.ai"
+        flexcardText="careers@alphatechlogics.com"
         flexcardImg="/Images/icons/contact-2.png"
         styles={styles}
         flexIsImageURL={true}
@@ -24,7 +24,7 @@ export default function () {
       <StaticCard
         flexcardTitle="Sales"
         flexURLMessage="For inquiries and assistance, contact our sales team at "
-        flexcardText="sales@qonsult.ai"
+        flexcardText="sales@alphatechlogics.com"
         flexcardImg="/Images/icons/contact-3.png"
         styles={styles}
         flexIsImageURL={true}

@@ -7,7 +7,7 @@ import Footer from "@/shared/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Qonsult technologies",
+  title: `AlphaTech Logics`,
   description: "A data consultancy and software services company",
 };
 

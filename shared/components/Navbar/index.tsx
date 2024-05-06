@@ -13,7 +13,7 @@ export default function Navbar() {
     <nav className="nav">
       <div className="d-flex flex-row container">
         <a href="/" className="title-name">
-          Qonsult <sub className="subscript">ai</sub>
+          &alpha;Tech<sub className="subscript">Logics</sub>
         </a>
         {/* <Image src={img0} alt="logo" width={60} height={60} /> */}
         <ul>
@@ -21,19 +21,19 @@ export default function Navbar() {
             <a href="/services">SERVICES</a>
             <ul className="submenu">
               <li>
-                <a href="/consulting-and-advisory">Consultancy & Advisory</a>
-              </li>
-              <li>
-                <a href="/artificial-intelligence">Artificial Intelligence</a>
-              </li>
-              <li>
-                <a href="/data-analytics">Data Analytics</a>
+                <a href="/software-development">Software Development</a>
               </li>
               <li>
                 <a href="/devops">Cloud DevOps</a>
               </li>
               <li>
-                <a href="/software-development">Software Development</a>
+                <a href="/data-analytics">Data Analytics</a>
+              </li>
+              <li>
+                <a href="/consulting-and-advisory">Consultancy & Advisory</a>
+              </li>
+              <li>
+                <a href="/artificial-intelligence">Artificial Intelligence</a>
               </li>
               <li>
                 <a href="/robotics-automation">Robotics Automation</a>
