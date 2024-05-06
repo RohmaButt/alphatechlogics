@@ -46,9 +46,9 @@ export default function Navbar() {
           <li>
             <a href="/careers">CAREERS</a>
           </li>
-          <li>
+          {/* <li>
             <a href="#">BLOG</a>
-          </li>
+          </li> */}
           <li>
             <a href="/contact">CONTACT US</a>
           </li>

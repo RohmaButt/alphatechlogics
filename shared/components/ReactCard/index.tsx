@@ -38,12 +38,9 @@ const ReactCard: React.FunctionComponent<inputParams> = ({
           <div className="line">
             {index === 1 ? (
               <p className="lineUp">
-                Transforming
-                <span className="blue-colored-text"> dispersed </span> data into
-                <span className="blue-colored-text"> transparent </span>
-                and
-                <span className="blue-colored-text"> accessible </span>
-                information
+                One-stop product development including
+                <span className="blue-colored-text"> AI, software, </span> and
+                <span className="blue-colored-text"> cloud services </span>
               </p>
             ) : index === 2 ? (
               <p className="lineUp">
@@ -59,9 +56,12 @@ const ReactCard: React.FunctionComponent<inputParams> = ({
               </p>
             ) : (
               <p className="lineUp">
-                One-stop product development including
-                <span className="blue-colored-text"> AI, software, </span> and
-                <span className="blue-colored-text"> cloud services </span>
+                Transforming
+                <span className="blue-colored-text"> dispersed </span> data into
+                <span className="blue-colored-text"> transparent </span>
+                and
+                <span className="blue-colored-text"> accessible </span>
+                information
               </p>
             )}
           </div>
