@@ -18,7 +18,7 @@ export default function Navbar() {
         {/* <Image src={img0} alt="logo" width={60} height={60} /> */}
         <ul>
           <li>
-            <a href="/services">SERVICES</a>
+            <a href="/services">Services</a>
             <ul className="submenu">
               <li>
                 <a href="/software-development">Software Development</a>
@@ -41,16 +41,16 @@ export default function Navbar() {
             </ul>
           </li>
           <li>
-            <a href="/about">ABOUT</a>
+            <a href="/about">About</a>
           </li>
           <li>
-            <a href="/careers">CAREERS</a>
+            <a href="/careers">Careers</a>
           </li>
-          {/* <li>
-            <a href="#">BLOG</a>
-          </li> */}
           <li>
-            <a href="/contact">CONTACT US</a>
+            <a href="/contact">Contact Us</a>
+          </li>
+          <li>
+            <a href="#">Book a Consultation</a>
           </li>
         </ul>
       </div>
