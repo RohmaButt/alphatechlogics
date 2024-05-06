@@ -13,7 +13,7 @@ export default function Navbar() {
     <nav className="nav">
       <div className="d-flex flex-row container">
         <a href="/" className="title-name">
-          &alpha;Tech<sub className="subscript">Logics</sub>
+          &alpha;Tech<span className="subscript"> Logics</span>
         </a>
         {/* <Image src={img0} alt="logo" width={60} height={60} /> */}
         <ul>
